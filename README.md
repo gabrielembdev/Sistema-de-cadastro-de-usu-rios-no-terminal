@@ -1,4 +1,4 @@
-# Sistema-de-cadastro-de-usu-rios-no-terminal
+# Sistema-de-cadastro-de-usuarios-no-terminal
 Projeto simples desenvolvido em C# com .NET para praticar lógica de programação e conceitos básicos da linguagem.
 
  Sobre o projeto
