@@ -39,6 +39,12 @@ C#
 
 Aplicação Console
 
-🎯 Objetivo
+Criei para praticar os fundamentos de programação e compreender a estrutura básica de um CRUD (Create, Read, Update, Delete).
 
-Praticar os fundamentos de programação e compreender a estrutura básica de um CRUD (Create, Read, Update, Delete).
+##  Como executar o projeto
+
+1. Clone o repositório
+2. Abra no Visual Studio
+3. Execute o projeto
+
+O sistema abrirá no console com um menu para cadastrar, listar, atualizar e remover usuários.
